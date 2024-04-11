@@ -19,7 +19,7 @@ const FormExample = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Do something with the form data, e.g., submit it to a server
+ 
     console.log(formData);
   };
 
